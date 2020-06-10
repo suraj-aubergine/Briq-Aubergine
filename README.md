@@ -1,6 +1,5 @@
 ## Installation steps
 
-- create .env file with aws credentials
 - run ```docker-compose build```
 - run ```docker-compose up```
 
