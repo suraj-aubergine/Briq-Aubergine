@@ -1,0 +1,8 @@
+Django>=2.0,<3.0
+psycopg2>=2.7,<3.0
+boto3
+elasticsearch
+requests_aws4auth
+djangorestframework
+python-decouple
+django-cors-headers
