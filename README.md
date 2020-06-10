@@ -5,9 +5,12 @@
 
 ### APIs
 
- - #### /get_quote_suggestion/ POST
+ - #### /get_quote_suggestion/ POST  
     - quoteId
     - newVote
- - #### /get_new_quote/ POST
+ - #### /get_new_quote/ POST  // POST API that returns a new quote on success
     - positiveSentiment
  - #### /get_quote/<quoteId> GET
+
+
+The API endpoints needs to be fixed to proper route path format. 
